@@ -10,5 +10,5 @@ T. Gong, D. Liu, H. Kim, S.-H. Kim, T. Kim, D. Lee, Y. Xie. "Distribution-free I
 ## Implementation
 `DFIM_BatteryCoating.ipynb` includes the implementation of the proposed method, enabling the regeneration of results in Table 1, 2, 3, and S.2 for DFIM. To achieve stable statistical performance, ensure that the arguments, such as sequence length and the number of sequences, match those in the paper.
 
-Given the significant memory cost of the data, it is recommended that users customize the code to generate data for online monitoring, especially for high-dimensional Type 2 data. Additionally, consider monitoring sequences in parallel for efficiency.
+Given the significant memory cost of the data, it is recommended that users customize the code to generate data in an online manner for monitoring, especially for high-dimensional Type 2 data. Additionally, consider monitoring sequences in parallel for efficiency.
 
