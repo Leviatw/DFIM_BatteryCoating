@@ -17,7 +17,7 @@ T. Gong, D. Liu, H. Kim, S.-H. Kim, T. Kim, D. Lee, Y. Xie. "Distribution-free I
 `DFIM_BatteryCoating.ipynb` includes the implementation of the baseline MGLR proposed by He et al. (2016). For more details, one can also refer to GitHub repository at https://github.com/fmegahed/image-mglr. 
 
 ## ST-SSD
-The folder `STSSD` includes the implementation of the baseline ST-SSD proposed by Yan et al. (2018). For more details, one can also refer to GitHub repository at https://github.com/hyan46/STSSD. The results are produced in GaTech ISyE HTCondor Cluster. The software environment is Python 3.8.13 running in a virtual environment on Linux servers. For the background on HTCondor Cluster, one can refer to  https://github.com/BillHuang01/condor_tutorial. 
+The folder `"ST-SSD"` includes the implementation of the baseline ST-SSD proposed by Yan et al. (2018). For more details, one can also refer to GitHub repository at https://github.com/hyan46/STSSD. The results are produced in GaTech ISyE HTCondor Cluster. The software environment is Python 3.8.13 running in a virtual environment on Linux servers. For the background on HTCondor Cluster, one can refer to  https://github.com/BillHuang01/condor_tutorial. 
 
 **Note 1:**
 To achieve stable statistical performance, ensure that the arguments, such as the training sequence length and the number of sequences for monitoring, match those in the paper.
