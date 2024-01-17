@@ -25,7 +25,7 @@ Given the significant memory cost of the data, it is recommended that users cust
 `MEWMA.ipynb` includes the implementation of the baseline MEWMA proposed by Wang and Lai (2019). 
 
 ### MGLR
-`DFIM_BatteryCoating.ipynb` includes the implementation of the baseline MGLR proposed by He et al. (2016). For more details, one can also refer to GitHub repository at https://github.com/fmegahed/image-mglr. 
+`MGLR.ipynb` includes the implementation of the baseline MGLR proposed by He et al. (2016). For more details, one can also refer to GitHub repository at https://github.com/fmegahed/image-mglr. 
 
 ### ST-SSD
 The folder `"ST-SSD"` includes the implementation of the baseline ST-SSD proposed by Yan et al. (2018). For more details, one can also refer to GitHub repository at https://github.com/hyan46/STSSD. The results are produced in GaTech ISyE HTCondor Cluster. The software environment is Python 3.8.13 running in a virtual environment on Linux servers. For the background on HTCondor Cluster, one can refer to  https://github.com/BillHuang01/condor_tutorial. 
