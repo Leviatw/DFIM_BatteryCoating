@@ -5,7 +5,6 @@ T. Gong, D. Liu, H. Kim, S.-H. Kim, T. Kim, D. Lee, Y. Xie. "Distribution-free I
 ## Data
 `DFIM_BatteryCoating.ipynb` provides data generation for Table 1, 2, 3, and S.2, covering both Type 1 and Type 2 data under both in-control and out-of-control conditions. Please note that users need to create the local storage paths `"data/in-control/"` and `"data/out-of-control/"` due to GitHub's storage limitations. It is advised not to store the data in full scale locally due to its substantial memory requirements.
 
-**Note:** Users are responsible for creating the specified local storage paths.
 
 ## Implementation
 
